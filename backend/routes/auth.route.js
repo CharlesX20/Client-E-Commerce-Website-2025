@@ -11,7 +11,7 @@ router.post("/logout", logout);
 
 router.post("/refresh-token", refreshToken);
 
-//WORK ON THIS LATER
+//WORK ON THIS LATER.....
 //router.get("/profile", getProfile);
 
 export default router;
